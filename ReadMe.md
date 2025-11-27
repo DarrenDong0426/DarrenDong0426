@@ -1,5 +1,10 @@
-# 💫 About Me:
-🔭 I’m currently working on: projects that blend software–hardware systems, focusing on embedded platforms and intelligent data processing.<br>🎯 My current goals: Strengthening my technical foundation, building real-world project experience, and exploring career opportunities in software engineering and AI/ML.<br>📚 What I’m focusing on academically: Deepening my understanding of computer systems, algorithms, machine learning fundamentals, and hands-on engineering practices.<br>🌱 I’m currently learning about: advanced embedded techniques, modern ML workflows, and best practices for scalable and maintainable system design. <br>💬 Ask me about: embedded development, software engineering, system architecture, data processing pipelines, and practical AI/ML applications.<br>⚡ Hobbies: Gaming, Self-Studying, Anime, Tinkering with electronics
+# 💫 About Me
+🔭 **Currently working on:** Projects that blend **software & hardware systems**, focusing on **embedded platforms** and **intelligent data processing**.  
+🎯 **Current goals:** Strengthen my **technical foundation**, gain **real-world project experience**, and explore **career opportunities** in **software engineering** and **AI/ML**.  
+📚 **Academic focus:** Deepening my understanding of **computer systems**, **algorithms**, **machine learning fundamentals**, and **hands-on engineering practices**.  
+🌱 **Currently learning:** Advanced **embedded techniques**, modern **ML workflows**, and best practices for **scalable & maintainable system design**.  
+💬 **Ask me about:** Embedded development, **software engineering**, **system architecture**, **data processing pipelines**, and practical **AI/ML applications**.  
+⚡ **Hobbies:** Gaming 🎮 | Self-studying 📖 | Anime 🎨 | Tinkering with electronics ⚡
 
 
 ## 🌐 Socials:
